@@ -8,23 +8,43 @@ This repo is my personal knowledge base for:
 - Daily practice from LeetCode, HackerRank, etc.
 - Notes from real-world data engineering scenarios
 
----
+/* 🔗 Problem:
+<URL Here>
 
-## 📂 Structure
+📌 Title:
+<Problem Name>
 
-```text
-SQL_Revision/
-  ├── 01_SELECT_BASICS.sql
-  ├── 02_WHERE_FILTERING.sql
-  ├── 03_JOINS/
-  │     ├── inner_join.sql
-  │     ├── left_join.sql
-  │     └── anti_join.sql
-  ├── 04_GROUP_BY_HAVING.sql
-  ├── 05_WINDOW_FUNCTIONS/
-  │     ├── row_number.sql
-  │     ├── rank_dense_rank.sql
-  │     ├── lag_lead.sql
-  │     └── running_totals.sql
-  ├── 06_STRING_DATE_FUNCTIONS.sql
-  └── 07_PERFORMANCE_TUNING.sql
+📌 Platform:
+<HackerRank / LeetCode / StrataScratch / DataLemur / etc.>
+
+📌 Concept:
+<Select / Joins / Aggregations / Window Functions / Date Functions / etc.>
+
+📌 Difficulty:
+<Easy / Medium / Hard>
+
+📑 Schema Provided:
+<Table + columns summary>
+Example:
+Table: <table_name>
+Columns:
+  col1 datatype
+  col2 datatype
+  ...
+
+🎯 Goal:
+<What needs to be accomplished>
+
+⚠️ Things I learned:
+- <Key skill / trick>
+- <Optimization approach>
+- <Anything new>
+
+🧠 Mistakes to avoid next time:
+- <Common mistake you made or almost made>
+- <Syntax issue, concept confusion>
+
+*/
+
+
+  
